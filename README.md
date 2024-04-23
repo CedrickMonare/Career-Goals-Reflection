@@ -25,8 +25,9 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+    - My current skills include programming languages such as HTML and CSS. I am also gaining expertise in Tailwind CSS.  
+    - I could definitely do much better when it comes to JavaScript and Github, but I know that even though I'm taking some time to understand them I'll get better with time.
+      
 2. **Interests and Values**:
     
     - Describe your key interests related to your career.
