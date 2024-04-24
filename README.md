@@ -25,7 +25,8 @@
 1. **Industries and Roles Explored**:
     
     - I've researched various industries and roles within the field of technology such as: UI/UX Design, Cybersecurity, Software Development and Web Development.
-    - I would have to say I'm more interested in the Web Devevolopment side of things, since my skills in programming languages related to Web Development and problem-solving skills align well with this role. I enjoy the process of creating efficient and scalable Websites to address various needs.
+    - I would have to say I'm more interested in the Web Development side of things, since my skills in programming languages related to Web Development and problem-solving skills align well with this role. I 
+     enjoy the process of creating efficient and scalable Websites to address various needs.
       
 2. **Alignment with Personal Profile**:
     
@@ -47,8 +48,8 @@
     - Contribute to an Open Source Project: Contributing to open-source projects will allow me to gain practical experience in collaborative software development, improving my coding skills, and building a 
       portfolio of work visible to potential employers. By setting a goal to make a few contributions every month, I ensure that I actively engage with the open-source community and make meaningful contributions 
       to projects aligned with my interests and expertise.
-    - Attending a tech conference focused on Software Development provides valuable opportunities for learning, networking, and staying updated on industry trends. By setting a goal to attend within the next year 
-     or two, I create a specific timeframe for taking advantage of this learning opportunity and networking with peers and industry experts, thereby expanding my knowledge and professional network.
+    - Attending a tech conference focused on Software Development provides valuable opportunities for learning, networking, and staying updated on industry trends. By setting a goal to attend within the next 
+     year or two, I create a specific timeframe for taking advantage of this learning opportunity and networking with peers and industry experts, thereby expanding my knowledge and professional network.
       
 2. **Long-term Goals** (3-5 years and beyond):
     
@@ -61,8 +62,7 @@
     - Lifelong learning is integral to my personal and professional growth. I thrive on challenges and enjoy acquiring new skills, whether through formal education, online courses, or hands-on experience. Staying 
       updated with emerging technologies and pursuing advanced certifications enables me to remain adaptable, relevant and competitive in a constantly evolving industry.
       Industry Expertise: I am deeply passionate about technology and enjoy staying updated with the latest trends and advancements in the field. My curiosity drives me to explore new technologies and dive deep 
-      into specific domains, such as artificial intelligence by increasing my expertise in a niche area, I can contribute specialized knowledge and insights to projects, drive innovation, and position myself as a 
-      subject matter expert.
+      into specific domains, such as artificial intelligence by increasing my expertise in a niche area, I can contribute specialized knowledge and insights to projects, drive innovation, and position myself as        a subject matter expert.
       Entrepreneurship: I possess a combination of creativity, problem-solving skills, and a strong entrepreneurial mindset. I enjoy identifying opportunities, conceptualizing ideas, and bringing them to 
       fruition. Starting my own tech venture aligns with my ambition to create impactful solutions that address real-world problems and make a positive difference in society.
 
