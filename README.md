@@ -40,7 +40,7 @@
 1. **Short-term Goals** (Next 1-2 years):
     
     - Complete my CodeSpace certificate: By the next few months I want to successfully pass and get my CodeSpace certificate demonstrating my proficiency in HTML, CSS and JavaScript and it's frameworks. 
-      Thereafter I would like to complete the FreeCodeCamp certification as well for further boost my reputation. I would also like to improve my code efficiency and contribute to open source projects. I would 
+      Thereafter I would like to complete the FreeCodeCamp certification as well to further boost my reputation. I would also like to improve my code efficiency and contribute to open source projects. I would 
       also love to attend a tech conference around if there are any close by
     - CodeSpace and FreeCodeCamp Certifications: This goal is specific and measurable as it focuses on obtaining my certifications from CodeSpace and FreeCodeCamp, 2 reputable schools. Achieving these 
       certifications will validate my skills and enhance my credibility as a Software/Web Developer, making me more competitive in the job market. It is achievable within the specified timeframe of four - six 
