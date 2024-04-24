@@ -1,18 +1,5 @@
 
-# Career Goals Reflection Template
-
-### Introduction to the Template
-
-This "Career Goals Reflection" template is designed to assist you in articulating and structuring your thoughts about your career aspirations. By using this template, you can clearly define your goals, understand your motivations, and outline the steps you plan to take to achieve these goals.
-
-### Instructions for Using the Template:
-
-- Take your time to thoughtfully respond to each section.
-- Be as specific and detailed as possible in your responses.
-- Remember, this is a living document. Revisit and update it regularly as your goals and circumstances evolve.
-- Use the insights gained from this reflection to guide your decision-making and actions in your professional development.
-
-By completing this reflection, you will gain a clearer understanding of your career aspirations and the steps needed to achieve them. This document can serve as a roadmap and a source of motivation as you progress in your professional journey.
+# Career Goals Reflection 
 
 ### Personal Information
 
@@ -30,15 +17,16 @@ By completing this reflection, you will gain a clearer understanding of your car
       
 2. **Interests and Values**:
     
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+    - My key interests and values relatd to software development include learning and mastering multiple programming languages like JavaScript and Python, exploring different technologies, tools and frameworks to stay updated with the tech industry.
+    - Respect is the most important value for me in a work environment followed by collaborating with my colleagues and also having a work-life balance where I can maintain a healthy balance between work responsibilities and my personal well-being.
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
+    - I've researched various industries and roles within the field of technology such as: UI/UX Design, Cybersecurity, Software Development and Web Development.
+    - I would have to say I'm more interested in the Web Devevolopment side of things, since my skills in programming languages related to Web Development and problem-solving skills align well with this role. I enjoy the process of creating efficient and scalable Websites to address various needs.
+      
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
